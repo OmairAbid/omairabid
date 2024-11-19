@@ -4,18 +4,18 @@
 
 <h1>
 <a href="https://git.io/typing-svg">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=28&pause=1000&color=0FF700&center=true&vCenter=true&width=1400&height=120&lines=🔧+Building+pipelines+so+smooth,+they+practically+butter+your+toast+🍞;🤝+Let's+connect+🌐" alt="Typing SVG" /> </a>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=28&pause=1000&color=0FF700&center=true&vCenter=true&width=1400&height=120&lines=🔧+Code+strategist+building+the+future+,+one+architecture+at+a+time;🤝+Let's+connect+🌐" alt="Typing SVG" /> </a>
 </h1>
 
-- 🔭 I’m currently working on [Terraform Hands-On]
+- 🔭 I’m currently working on Azure Solutions Architect
+- 
+- 🌱 I’m currently learning **Cloud Security Best Practices**
 
-- 🌱 I’m currently learning ** Cloud Security Best Practices**
-
-- 👯 I’m looking to collaborate on [Docker and Kubernetes]
+- 👯 I’m looking to collaborate on Docker and Kubernetes projects
 
 - 👨‍💻 All of my projects are available at [https://github.com/omairabid](https://github.com/omairabid)
 
-- 💬 Ask me about **.NET | Azure | AWS | Terraform | Docker | Jenkins | Kubernetes **
+- 💬 Ask me about **.NET | Azure | AWS | Terraform | Docker | Jenkins | Kubernetes**
 
 - 📫 How to reach me **umair.abid96@gmail.com**
 
